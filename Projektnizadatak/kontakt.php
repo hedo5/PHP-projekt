@@ -19,7 +19,7 @@ print '
 	<main>
 		<h1>Kontakt</h1>
 		<div id="kontakt">
-			<iframe src="https://www.google.com/maps/embed/v1/place?q=Botine%C4%8Dka%20&key=AIzaSyDaQvy42HhB-NuChseu6nHrJ8dpq62XjxM" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+			<iframe src="https://www.google.com/maps/embed/v1/place?q=Botine%C4%8Dka%20&key=API-KEY" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 			<form action="http://vvg.hr" id="kontakt" name="kontakt" method="POST">
 				<label for="ime">Ime *</label>
 				<input type="text" id="ime" name="ime" placeholder="Vaše me.." required>
